@@ -1,0 +1,7 @@
+body{
+    transition: all .5s ease-in-out;
+    padding: 0;
+    margin: 0;
+    background-color: #ffffff;
+    color: #000000;
+}
