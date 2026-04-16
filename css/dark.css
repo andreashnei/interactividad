@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+    body {
+        transition: all 0.5s ease-in-out;
+        padding: 0;
+        margin: 0;
+        background-color: #ffffff;
+        color: #000000;
+    
+}
+
+.dark-mode {
+    background-color: black;
+    color: #ffffff;
+}
